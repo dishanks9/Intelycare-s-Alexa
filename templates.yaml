@@ -1,0 +1,61 @@
+welcome: Welcome to Intelycare, On demand staffing for healthcare. We provide rockstar nurses and CNA's to the best healthcare faccilities.
+
+CURRENT WEEK TOTAL: The {{schedule}}
+
+CURRENT WEEK FLOOR WISE TOTAL: The {{schedule2}}}}
+
+LAST WEEK TOTAL: The {{schedule3}}
+
+LAST WEEK FLOOR WISE TOTAL: The {{schedule4}}
+
+NEXT WEEK TOTAL: The {{schedule5}}
+
+NEXT WEEK FLOOR WISE TOTAL: The {{schedule6}}
+
+TODAY TOTAL: The {{schedule7}}
+
+TODAY FLOOR WISE TOTAL: The {{schedule8}}
+
+TOMORROW TOTAL: The {{schedule9}}
+
+TOMORROW FLOOR WISE TOTAL: The {{schedule10}}
+
+YESTERDAY TOTAL: The {{schedule11}}
+
+YESTERDAY FLOOR WISE TOTAL: The {{schedule12}}
+
+CURRENT WEEK NURSENAME PID: FOR {{schedule13}}
+
+LAST WEEK NURSENAME PID: FOR {{schedule14}}
+
+NEXT WEEK NURSENAME PID: FOR {{schedule15}}
+
+TODAY NURSENAME PID: FOR {{schedule16}}
+
+TOMORROW NURSENAME PID: FOR {{schedule17}}
+
+YESTERDAY NURSENAME PID: FOR {{schedule18}}
+
+Billing ENTERED COUNT: THE {{schedule19}}
+
+APPROVED ENTERED COUNT: THE {{schedule20}}
+
+Billing ENTERED NAME: THE {{schedule21}}
+
+APPROVED ENTERED NAME: THE {{schedule22}}
+
+MISSING NAME: THE {{schedule24}}
+
+MISSING COUNT: THE {{schedule23}}
+
+NURSE COUNT: THE {{schedule25}}
+
+CNA COUNT: THE {{schedule26}}
+
+MALE FEMALE: THE {{schedule27}}
+
+MALE PROVIDERS: THE {{schedule28}}
+
+FEMALE PROVIDERS: THE {{schedule29}}
+
+bye: Goodbye

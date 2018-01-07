@@ -1,0 +1,42 @@
+CurrentWeekTotalIntent How many providers are working for current week
+CurrentWeekFloorIntent providers are working for current week on each floor
+LastWeekTotalIntent Number of providers who worked for last week
+LastWeekFloorIntent How many providers were working for last week on each floor
+NextWeekTotalIntent How many providers are going to work for next week
+NextWeekFloorIntent How many providers are going to work for next week on each floor
+TodayTotalIntent How many providers are going to work today
+TodayFloorIntent How many providers are going to work today on each floor
+TomorrowTotalIntent How many providers will work tomorrow
+TomorrowFloorIntent How many providers will work tomorrow on each floor
+YesterdayTotalIntent How many providers were working yesterday
+YesterdayFloorIntent How many providers were working yesterday on each floor
+CurrentWeekNurseIntent Name the providers working for current week
+LastWeekNurseIntent Name the providers who worked for last week
+NextWeekNurseIntent Name the providers who are going to work for next week
+YesterdayNurseIntent Name the providers who were working yesterday
+TodayNurseIntent Name the providers who are working today
+TomorrowNurseIntent Name the providers who are going to work tomorrow
+ScheduleNursesIntent {numberOfNurses} {floor}
+ScheduleNursesIntent I need {numberOfNurses} nurses on floor {floor}
+ScheduleNursesIntent I need {numberOfNurses} nurses for floor {floor}
+ScheduleShiftIntent For the shift starting from {shift_start} am to {shift_end} am
+BillingEnterCountIntent what bills are in enter status
+BillingApprovedCountIntent How many bills are there in approved status
+BillingEnterNameIntent who are the nurses whose bills are there in enter status
+BillingApprovedNameIntent what providers bills in approved status
+BillingApprovedNameIntent nurses bills in approved status
+BillingMissingCountIntent How many bills have the status as missing data
+BillingMissingCountIntent How many bills are missing data
+BillingMissingCountIntent How many bills have the missing data status
+BillingMissingNameIntent Name the providers whose bills are in missing data status
+BillingMissingNameIntent Name the providers whose bills are missing data
+BillingMissingNameIntent Name the providers who are in missing data status
+BillingMissingNameIntent Name the providers who are missing data
+NurseCountIntent total nurse count
+NurseCountIntent for the total nurse count
+CNACountIntent How many total CNA are there
+CNACountIntent How many total CNA there are
+CNACountIntent How many CNA's are there
+CNACountIntent How many CNA's do I have
+MaleFemaleIntent What is the number of male and female providers
+MaleFemaleIntent how many male and female providers

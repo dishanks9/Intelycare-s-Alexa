@@ -1,0 +1,126 @@
+{
+  "intents": [
+    {
+      "intent": "YesIntent"
+    },
+     {
+      "intent": "AMAZON.StopIntent"
+    },
+     {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "CurrentWeekTotalIntent"
+    },
+    {
+      "intent": "CurrentWeekFloorIntent"
+    },
+    {
+      "intent": "LastWeekTotalIntent"
+    },
+    {
+      "intent": "LastWeekFloorIntent"
+    },
+    {
+      "intent": "NextWeekTotalIntent"
+    },
+    {
+      "intent": "NextWeekFloorIntent"
+    },
+    {
+      "intent": "TodayTotalIntent"
+    },
+    {
+      "intent": "TodayFloorIntent"
+    },
+    {
+      "intent": "TomorrowTotalIntent"
+    },
+    {
+      "intent": "TomorrowFloorIntent"
+    },
+    {
+      "intent": "YesterdayTotalIntent"
+    },
+    {
+      "intent": "YesterdayFloorIntent"
+    },
+    {
+      "intent": "CurrentWeekNurseIntent"
+    },
+    {
+      "intent": "LastWeekNurseIntent"
+    },
+    {
+      "intent": "NextWeekNurseIntent"
+    },
+    {
+      "intent": "YesterdayNurseIntent"
+    },
+    {
+      "intent": "TodayNurseIntent"
+    },
+    {
+      "intent": "TomorrowNurseIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "numberOfNurses",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "floor",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "ScheduleNursesIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "shift_start",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "shift_end",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "ScheduleShiftIntent"
+    },
+    {
+      "intent": "BillingEnterCountIntent"
+    },
+    {
+      "intent": "BillingApprovedCountIntent"
+    },
+    {
+      "intent": "BillingEnterNameIntent"
+    },
+    {
+      "intent": "BillingApprovedNameIntent"
+    },
+    {
+      "intent": "BillingMissingCountIntent"
+    },
+    {
+      "intent": "BillingMissingNameIntent"
+    },
+    {
+      "intent": "NurseCountIntent"
+    },
+    {
+      "intent": "CNACountIntent"
+    },
+    {
+      "intent": "MaleFemaleIntent"
+    },
+    {
+      "intent": "MaleCountIntent"
+    },
+    {
+      "intent": "FemaleCountIntent"
+    }
+  ]
+}
